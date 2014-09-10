@@ -12,6 +12,8 @@ To create a new AngularJS Express component:
 $ ngx init -b component
 ```
 
+Visit the [AngularJS Express](https://github.com/angular-express/angular-express) page to learn more about boilerplates and components.
+
 ## License
 
 MIT.
